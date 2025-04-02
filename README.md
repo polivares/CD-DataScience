@@ -1,4 +1,4 @@
-# DataScience2024-2
+# DataScience2025-1
 # Curso de Data Science Coding Dojo Latam
 
 Este repositorio contiene el material completo del curso para Data Science de Coding Dojo, diseñado para introducir a los estudiantes en los conceptos y herramientas clave utilizados en el análisis de datos y uso de herramientas de Machine Learning.
@@ -8,6 +8,7 @@ Este repositorio contiene el material completo del curso para Data Science de Co
 El siguiente repositorio es un **complemento** (no un reemplazo) de los materiales presentes en la plataforma de Coding Dojo Latam.
 El curso está organizado en módulos temáticos que abarcan desde fundamentos de programación en Python hasta técnicas avanzadas de aprendizaje automático. A continuación, se presenta una descripción de cada módulo:
 
+0. **Pre-Bootcamp**: Introducción práctica para estudiantes sin experiencia previa en programación. Cubre los fundamentos esenciales de Python, como tipos de datos básicos, estructuras de control, funciones y manejo de errores. Su propósito es nivelar conocimientos antes de abordar los módulos principales.
 1. **Python Basics**: Introducción a los fundamentos del lenguaje de programación Python.
 2. **Pandas**: Manipulación y análisis de datos utilizando la biblioteca Pandas.
 3. **Matplotlib**: Visualización de datos con la biblioteca Matplotlib.
