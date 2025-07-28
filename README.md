@@ -1,5 +1,5 @@
 # DataScience2025-2
-# Curso de Data Science Coding Dojo Latam
+# Curso de Data Science Skill Nest
 
 Este repositorio contiene el material completo del curso para Data Science de Coding Dojo, diseñado para introducir a los estudiantes en los conceptos y herramientas clave utilizados en el análisis de datos y uso de herramientas de Machine Learning.
 
