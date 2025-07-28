@@ -1,4 +1,4 @@
-# DataScience2025-1
+# DataScience2025-2
 # Curso de Data Science Coding Dojo Latam
 
 Este repositorio contiene el material completo del curso para Data Science de Coding Dojo, diseñado para introducir a los estudiantes en los conceptos y herramientas clave utilizados en el análisis de datos y uso de herramientas de Machine Learning.
@@ -21,6 +21,11 @@ El curso está organizado en módulos temáticos que abarcan desde fundamentos d
 10. **Dimensionality Reduction**: Métodos para reducir la complejidad de los datos manteniendo su información relevante.
 11. **Neural Networks**: Introducción a las redes neuronales y su aplicación en problemas complejos de aprendizaje automático.
 12. **SQL**: Consultas y manipulación de bases de datos utilizando SQL.
+13. **Git**: Control de versiones y flujo de trabajo con Git.
+14. **AdvancedCNNArchitectures**: Arquitecturas avanzadas de redes convolucionales.
+15. **TransferLerning_FineTuning**: Transferencia de aprendizaje y ajuste fino de modelos.
+16. **LLMs**: Modelos de lenguaje de gran escala (LLMs).
+17. **AI_Gen**: Inteligencia Artificial Generativa.
 
 ## Material Adicional
 
